@@ -1,5 +1,8 @@
-# FlaskAPI-
-tutorial from Scotch site
+# FlaskAPI-tutorial from Scotch site
+
+A Simple CRUD FLASK REST Api demonstration with GET POST PUT and DELETE options .
+The FlaskREST Api utlizes authentication and Token based operation.
+[Tutorial refernced](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
 
 
 
